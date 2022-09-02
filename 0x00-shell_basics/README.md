@@ -1,1 +1,1 @@
- Write a script prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
+ 11-lists
