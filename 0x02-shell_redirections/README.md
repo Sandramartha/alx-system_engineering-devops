@@ -1,1 +1,1 @@
-Script that that displays the third line of the file
+Write a script that duplicates the last line of the file iacta
