@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+ls -t1 head
